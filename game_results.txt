@@ -1,0 +1,10 @@
+test Standard Easy 3 10 28.649
+test Magnetic Easy 3 7 15.523
+ltphuc Standard Easy 3 10 12.345
+thanh Magnetic Hard 7 25 56.789
+nguyen Standard Normal 5 15 23.456
+bao Magnetic Easy 3 8 18.456
+tuan Standard Hard 7 30 72.123
+kim Magnetic Normal 5 18 36.789
+hieu Standard Easy 3 12 14.234
+lily Magnetic Hard 7 20 60.345
